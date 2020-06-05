@@ -1,5 +1,5 @@
 ---
-title: "1_Technische Grundlagen.md"
+title: "1_Technische Grundlagen"
 date: 2020-03-28
 ---
 
