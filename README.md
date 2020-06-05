@@ -6,4 +6,4 @@ Da ich den Unterricht aufgrund meiner [FCE-Prüfung](https://cambridge-exams.ch/
 
 Es kommt noch etwas hier...
 
-[1.Tag](Einfuehrung.md)
+[Einfuehrung](Einfuehrung.md)
