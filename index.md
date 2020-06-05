@@ -8,18 +8,14 @@ Ich möchte hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinform
 
 Vielen Dank
 
-### [Einführung](https://github.com/akoezeibrahi/Blog-Bain20-Akoezel/blob/master/Einführung.md)
+Hier ist mein Agenda für euch:
 
- ### [1_Technische Grundlagen](https://github.com/akoezeibrahi/Blog-Bain20-Akoezel/blob/master/1_Technische%20Grundlagen.md)
+title: Einführung
+title: 1_Technische Grundlagen
+title: 2_Funktion und Aufbau von Bibliotheks- und Archivsystemen
+title: 3_Repository-Software für Publikationen und Forschungsdaten 
+title: 4_Metadaten modellieren und Schnittstellen nutzen
+title: 5_Suchmaschinen und Discovery-Systeme
+title: 6_Linked Data
+title: Schluss
 
- ### [2_Funktion und Aufbau von Bibliotheks- und Archivsystemen](https://github.com/akoezeibrahi/Blog-Bain20-Akoezel/blob/master/2_Funktion%20und%20Aufbau%20von%20Bibliotheks-%20und%20Archivsystemen.md)
-
- ### [3_Repository-Software für Publikationen und Forschungsdaten ](https://github.com/akoezeibrahi/Blog-Bain20-Akoezel/blob/master/3_Repository-Software%20für%20Publikationen%20und%20Forschungsdaten.md)
-
- ### [4_Metadaten modellieren und Schnittstellen nutzen]
-
- ### [5_Suchmaschinen und Discovery-Systeme]
-
- ### [6_Linked Data]
-
- ### [Schluss]
