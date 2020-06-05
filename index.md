@@ -1,5 +1,5 @@
 ---
-title: Lerntagebuch
+Lerntagebuch von Ibrahim
 ---
 
 ## Willkommen zu meinem Lerntagebuch
