@@ -8,8 +8,7 @@ Ich möchte hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinform
 
 Vielen Dank
 
-## Hier ist mein Agenda für euch:
-
+### Hier ist mein Agenda für euch:
 
 #  [Einfuehrung](Einfuehrung.md)  
 #  [1_Technische Grundlagen](1_Technische Grundlagen.md)
